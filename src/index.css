@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css?family=Sofia&effect=fire");
+
+body {
+    background-image: url("https://vistapointe.net/images/magic-the-gathering-2.jpg"); 
+  height: 100%; 
+
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card { 
+    margin: auto;
+    background: transparent;
+    padding: 1em;
+    text-align: center;
+    text-decoration-style: solid;
+    font-size: 25px;
+    
+}
+
+.jumbotron {
+  justify-content: center;
+  background: transparent;
+  
+  color:white;
+  font-family: "Sofia", sans-serif;
+  font-size: 40px;
+}
+
+.btn-dark-moon {
+  background: #141E30!important;   
+  background: -webkit-linear-gradient(to right, #243B55, #141E30)!important;  
+  background: linear-gradient(to right, #243B55, #141E30)!important;
+  color: #fff!important;
+  border: 3px solid #eee!important;
+}
+
+.btn-rounded {
+    border-radius: 35px!important;
+}
+
+.cartas {
+  align-items: center;
+}
